@@ -1,2 +1,0 @@
-// Graph utility functions
-const calcularRuta = (start, end) => {  const calcularRutaReal = () => {    const dijkstra = (start, end) => {    const result = dijkstra(nameInput1, nameInput2);    const buildGraph = () => {    const dijkstra = (graph, start, end) => {    const graph = buildGraph();  const distancia = dijkstra(graph, from_item, to_item);    <button onClick={calcularRutaReal}>Calcular ruta</button>
